@@ -1,7 +1,6 @@
 Not checked into the repository is are the results files. I am using this structure on my machine to plot:
 
-
-results/
+```results/
 ├── flexograph
 │   └── graph500_26_pr_adj.log
 ├── galois
@@ -54,3 +53,4 @@ results/
     └── ligra.log
 
 6 directories, 45 files
+```
